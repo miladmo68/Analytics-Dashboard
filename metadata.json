@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Analytics Dashboard",
+  "description": "A high-performance modern business analytics dashboard with real-time interactive charts, sales metrics, customer tracking, and a server-side Gemini AI operations analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
